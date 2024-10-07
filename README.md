@@ -3,7 +3,7 @@
 ## 概要 / Summary
 このコードはQubenaの誤答も正解判定にするものです。
 ## 使い方 / How to use
-### IMPORTANT: Releasesから、最新の自動化キットをダウンロードしておいてください。
+### IMPORTANT: Releasesから、[最新の自動化キット](https://github.com/takuan-tv-2sei/9bn-a/releases/latest)をダウンロードしておいてください。
 ### すべて正解判定にする方法
 1. エクスプローラーで、ドキュメントなどにフォルダーを作成します。
 2. Qubenaで、何でもいいのでワークブックに入り、好きなものを開始します。
