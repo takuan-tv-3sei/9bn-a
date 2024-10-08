@@ -2,6 +2,7 @@
 ## 2024/10/07時点で動作確認済み
 ## 概要 / Summary
 このコードはQubenaの誤答も正解判定にするものです。
+**何が起きても責任は負いませんのでご注意ください。**
 ## 使い方 / How to use
 ### IMPORTANT: Releasesから、[最新の自動化キット](https://github.com/takuan-tv-2sei/9bn-a/releases/latest)をダウンロードしておいてください。
 ### すべて正解判定にする方法
