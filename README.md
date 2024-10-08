@@ -1,5 +1,3 @@
-[開発者用ダウンロード(Github)](https://github.com/takuan-tv-2sei/9bn-a/releases/latest)
-[開発者用ダウンロード(GoogleDrive)](https://drive.google.com/file/d/1DLisE502COKtF19HwrOEVmNc9dn_FrWj/view?usp=sharing)
 # Qubena Modding Codes
 ## 2024/10/07時点で動作確認済み
 ## 概要 / Summary
