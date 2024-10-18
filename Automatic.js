@@ -11,10 +11,7 @@
 */
 function performClicks() {
     try {
-      const firstButton = document.querySelector('.MuiButtonBase-root.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-sizeMedium.MuiButton-containedSizeMedium.MuiButton-colorPrimary.mui-style-1hurhja');
-      if (firstButton) {
-        firstButton.click();
-      }
+      document.querySelector('.MuiBox-root.mui-style-56sg73 button').click();
     } catch (error) {
       console.error("Error clicking the first button:", error);
     }
@@ -32,26 +29,19 @@ function performClicks() {
   
     setTimeout(() => {
       try {
-        const elements = document.querySelectorAll('p.MuiTypography-root.MuiTypography-body1.mui-style-19x4g8o');
-        elements.forEach(i => {
-          if (i && i.textContent.includes('解答する')) {
-            const button = i.closest('button');
-            if (button) {
-              button.click();
-            }
-          }
-        });
+        const buttons = document.querySelectorAll('.MuiButtonBase-root.mui-style-n26i05');
+
+        buttons[1].click();
+
       } catch (error) {
         console.error("Error clicking the 解答する button:", error);
       }
     }, 1000);
+    
   
     setTimeout(() => {
       try {
-        const lastButton = document.querySelector('.MuiButtonBase-root.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-sizeMedium.MuiButton-containedSizeMedium.MuiButton-colorPrimary.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-sizeMedium.MuiButton-containedSizeMedium.MuiButton-colorPrimary.mui-style-1xon4mv');
-        if (lastButton) {
-          lastButton.click();
-        }
+        document.querySelector('.MuiButtonBase-root.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-sizeMedium.MuiButton-containedSizeMedium.MuiButton-colorPrimary.mui-style-1eb6wkk').click();
       } catch (error) {
         console.error("Error clicking the last button:", error);
       }
