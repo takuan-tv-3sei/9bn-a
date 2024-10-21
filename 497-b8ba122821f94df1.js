@@ -14114,13 +14114,13 @@
                     name: "hint",
                     size: 40,
                     color: "onSurface",
-                    alpha: t ? void 0 : "disabled"
+                    alpha: void 0
                 }), (0,
                 n.jsx)(d.xv, {
                     fontWeight: "bold",
                     color: "onSurface",
-                    alpha: t ? void 0 : "disabled",
-                    children: "ヒント"
+                    alpha: void 0,
+                    children: "チート導入済み"
                 })]
             })
         }
@@ -15157,7 +15157,7 @@
                             children: (0,
                             n.jsx)(d.xv, {
                                 size: "lg",
-                                children: "ヒント"
+                                children: "チート導入済み"
                             })
                         }), (0,
                         n.jsx)(l.sg, {
