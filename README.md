@@ -25,9 +25,9 @@
 6. 上にバーが出てきたら許可を押します。
 7. 先ほど作成したフォルダを選択します。
 8. ページ(Page)タブに戻ります。
-9. _next/staticの中のchunksの中にある[497-b8ba122821f94df1.js](https://github.com/takuan-tv-2sei/9bn-a/blob/main/648-7a0f793f285b714f.js)を開きます。
-10. 497-b8ba122821f94df1.jsの中身をすべて消します。
-11. [ここから](https://github.com/takuan-tv-2sei/9bn-a/blob/main/648-7a0f793f285b714f.js)コードをコピーしてください。
+9. _next/staticの中のchunksの中にある648-ccdd8d2bc7889313.jsを開きます。
+10. 648-ccdd8d2bc7889313.jsの中身をすべて消します。
+11. [ここから](https://github.com/takuan-tv-2sei/9bn-a/blob/main/648-ccdd8d2bc7889313.js)コードをコピーしてください。
 12. 先ほど開いた497-b8ba122821f94df1.jsにペーストします。
 13. Ctrl+Sをおして保存します。
 14. Qubenaのサイトをリロードもしくはもう一度開きます。
