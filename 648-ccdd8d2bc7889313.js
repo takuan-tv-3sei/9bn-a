@@ -5259,7 +5259,7 @@
                     order: n.map(e => e.id),
                     answered: c.map(e => e.id)
                 }
-                  , r =ew.sS.CORRECT
+                  , r = ew.sS.CORRECT;
                 i(c),
                 e({
                     answer: {
@@ -9735,7 +9735,7 @@
             , [r, e, i])
               , c = (0,
             a.useCallback)( (r, l) => {
-                let a = ew.sS.CORRECT
+                let a = ew.sS.CORRECT;
                 n(r),
                 l({
                     answer: {
@@ -11214,7 +11214,7 @@
             , [t, o, r])
               , d = (0,
             a.useCallback)(n => {
-                let ew.sS.CORRECT
+                let l = ew.sS.CORRECT
                   , a = t.map(e => {
                     var t;
                     let r = "apSelection" === e.case ? null === (t = e.answered) || void 0 === t ? void 0 : t.text : e.answered;
@@ -11809,7 +11809,7 @@
             , [e, s])
               , c = (0,
             a.useCallback)( (e, i) => {
-                let l = ew.sS.CORRECT
+                let l = ew.sS.CORRECT;
                 r(e),
                 i({
                     answer: {
@@ -14049,7 +14049,7 @@
                     fontWeight: "bold",
                     color: "onSurface",
                     alpha: t ? void 0 : "disabled",
-                    children: "Hint"
+                    children: "ヒント"
                 })]
             })
         }
@@ -15090,7 +15090,7 @@
                             children: (0,
                             n.jsx)(d.xv, {
                                 size: "lg",
-                                children: "Hint"
+                                children: "ヒント"
                             })
                         }), (0,
                         n.jsx)(l.sg, {
